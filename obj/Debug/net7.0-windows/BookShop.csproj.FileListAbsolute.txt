@@ -1,0 +1,56 @@
+C:\Users\educom\Documents\C#\BookShop\bin\Debug\net7.0-windows\BookShop.exe
+C:\Users\educom\Documents\C#\BookShop\bin\Debug\net7.0-windows\BookShop.deps.json
+C:\Users\educom\Documents\C#\BookShop\bin\Debug\net7.0-windows\BookShop.runtimeconfig.json
+C:\Users\educom\Documents\C#\BookShop\bin\Debug\net7.0-windows\BookShop.dll
+C:\Users\educom\Documents\C#\BookShop\bin\Debug\net7.0-windows\BookShop.pdb
+C:\Users\educom\Documents\C#\BookShop\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\educom\Documents\C#\BookShop\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\educom\Documents\C#\BookShop\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\educom\Documents\C#\BookShop\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\educom\Documents\C#\BookShop\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\educom\Documents\C#\BookShop\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\BookShop.csproj.AssemblyReference.cache
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\BookShop_MarkupCompile.cache
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\BookShop_MarkupCompile.lref
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\BookShop.g.resources
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\BookShop.AssemblyInfoInputs.cache
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\BookShop.AssemblyInfo.cs
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\BookShop.csproj.CopyComplete
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\BookShop.dll
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\refint\BookShop.dll
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\BookShop.pdb
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\BookShop.genruntimeconfig.cache
+C:\Users\educom\Documents\C#\BookShop\obj\Debug\net7.0-windows\ref\BookShop.dll
+E:\CodingProjects\Dot Net\BookShop\BookShop\bin\Debug\net7.0-windows\BookShop.exe
+E:\CodingProjects\Dot Net\BookShop\BookShop\bin\Debug\net7.0-windows\BookShop.deps.json
+E:\CodingProjects\Dot Net\BookShop\BookShop\bin\Debug\net7.0-windows\BookShop.runtimeconfig.json
+E:\CodingProjects\Dot Net\BookShop\BookShop\bin\Debug\net7.0-windows\BookShop.dll
+E:\CodingProjects\Dot Net\BookShop\BookShop\bin\Debug\net7.0-windows\BookShop.pdb
+E:\CodingProjects\Dot Net\BookShop\BookShop\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+E:\CodingProjects\Dot Net\BookShop\BookShop\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+E:\CodingProjects\Dot Net\BookShop\BookShop\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+E:\CodingProjects\Dot Net\BookShop\BookShop\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+E:\CodingProjects\Dot Net\BookShop\BookShop\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CodingProjects\Dot Net\BookShop\BookShop\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\BookShop.csproj.AssemblyReference.cache
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\App.g.cs
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\BookShop_MarkupCompile.cache
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\BookShop_MarkupCompile.lref
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\MainWindow.baml
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\BookShop.g.resources
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\BookShop.AssemblyInfoInputs.cache
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\BookShop.AssemblyInfo.cs
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\BookShop.csproj.CoreCompileInputs.cache
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\BookShop.csproj.CopyComplete
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\BookShop.dll
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\refint\BookShop.dll
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\BookShop.pdb
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\BookShop.genruntimeconfig.cache
+E:\CodingProjects\Dot Net\BookShop\BookShop\obj\Debug\net7.0-windows\ref\BookShop.dll
